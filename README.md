@@ -1,5 +1,6 @@
 # RNA-NMR-Decoys
 Atomistic decoy sets for RNAs in PDB that were solved using NMR, and for which NMR chemical shift data is available.
+
 Decoy sets consist of:  
 - structures in the corresponding NMR bundle
 - structures generated using FARFAR
