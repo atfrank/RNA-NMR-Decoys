@@ -16,3 +16,6 @@ Coordinate files can be decompressed using by executing:
 ``
 ./decompress-coordinates.sh
 ``
+
+RNA-NMR-Decoys is citable using:
+[![DOI](https://zenodo.org/badge/71631383.svg)](https://zenodo.org/badge/latestdoi/71631383)
