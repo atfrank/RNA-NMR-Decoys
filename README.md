@@ -8,7 +8,7 @@ Decoy sets consist of:
 
 Contained in each folder are:
 - coordinates/ - coordinate files of decoys in PDB format (compressed with .gzip)
-- chemical_shifts.txt - NMR chemical shifts for each RNA
+- chemical_shifts.txt - NMR chemical shifts
 - struct.txt - structural comparison info for decoys relative to the solve NMR structures
 
 Coordinate files can be decompressed using by executing:
