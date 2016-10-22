@@ -10,7 +10,7 @@ Contained in each folder are:
 - chemical_shifts.txt - NMR chemical shifts for each RNA
 - struct.txt - structural comparison info for decoys relative to the solve NMR structures
 
-Coordinate files can be decompressed using by executing:\n
+Coordinate files can be decompressed using by executing:
  
 ``
 ./decompress-coordinates.sh
