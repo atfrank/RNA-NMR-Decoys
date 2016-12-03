@@ -8,13 +8,14 @@ Decoy sets consist of:
 
 Contained in each folder are:
 - coordinates/ - coordinate files of decoys in PDB format (compressed with .gzip)
-- chemical_shifts.txt - NMR chemical shifts
-- struct.txt - structural comparison info for decoys relative to the solve NMR structures
+- structure_info/ -  structural comparison info for decoys relative to the solve NMR structures
+- coordinates/ - coordinate files of decoys in PDB format (compressed with .gzip)
+- chemical_shifts/ Observed and predicted NMR chemical shifts for decoys
 
-Coordinate files can be decompressed using by executing:
+Files can be decompressed using by executing:
  
 ``
-./decompress-coordinates.sh
+./decompress-files.sh
 ``
 
 Find download links and citation info at:
